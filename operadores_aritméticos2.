@@ -1,0 +1,114 @@
+Q.1 Soma de dois números:.
+   1. Leia o primeiro número inteiro e guarde esse valor.
+   2. leia o segundo número inteiro e guarde esse valor.
+   3. some dois números.
+   4. mostre o resultado da soma.
+
+Refinamento:
+  leia número1
+  leia número2
+  some = número1 + número2
+  A soma é= soma fim
+
+ Q.2 Média aritmética de três números:
+   1. leia o valor com base no retãngulo.
+   2. multiplique a base pela altura.
+   3. mostre o resultado de multiplicação, que corresponde á área do retãngulo.
+
+ Refinamento:
+    leia a base
+    leia a altura
+    área = base * altura
+    A área do retãngulo é = área fim
+
+Q.3 Área de um retângulo:
+     1. primeiro, deve-se ler o valor da base do reângulo.
+     2. em seguida, deve-se ler o valor da altura do retângulo.
+     3. multiplica-se a base pela altura para obter a área.
+     4. por fim, exibe-se o valor da área calculada.
+
+  Refinamento:
+     leia a base
+     leia a altura 
+     área = basa * altura
+     A área do retângulo é = área fim
+
+ Q.4 Área de um triângulo:
+    1. leia o valor da base do retângulo.
+    2. leia o valor da altura do retângulo.
+    3. multiplique a base pela altura.
+    4. divida o resultado por 2
+    5. exiba o valor obtido, que representa a área do retângulo.
+
+  Refinamento: 
+      leia a base 
+      leia a altura
+      área = (base * altura)/2 
+      á área do triângulo é = área fim
+
+  Q.5 Conversão de temperatura:
+     1. leia o vaalor da temperatura em graus celsius.
+     2. multiplique esse valor por 9
+     3. some 160 ao resultado da multiplicação.
+     4. divida o valor obtido por 5 
+     5. mostre o resultado final que ocorre á temperatura em fahrenheit.
+
+  Refinamento: 
+      leia C a temperatura em Celsius
+      leia F a temperatura em Fahrenheit
+      F = (9 * C + 160) / 5
+
+ Q.6 Média ponderada de três notas:
+    1. multiplique a nota pelo seu peao correspondente
+    2. somamos os resultados dessas multiplicações.
+    3. depois, somamos todos os passos.
+    4. por fim, dividimos a soma ponterada das notas pela soma dos pesos.
+
+  Refinamentos: 
+     n1, n2, n3 as três notas
+     p1, p2, p3 os respectivos pesos
+     media = (n1 * p1 + n2 * p2 + n3 * p3) / (p1 + p2 + p3)
+
+ Q.7 volume de uma caixa retangular:
+     1. volume obtido multiplicado por tres dimensões.
+     2 voumes: comprimento, largura e altura.
+     3. todos multiplicados no final.
+
+  Refinamento:
+     comprimentos: 4 metros 
+     largura: 3 metros
+     altura: 2 metros
+     volume = 4 * 3 * 2 = saída 24 
+
+  Q.8 Valor total da compra
+     1. ler o preço de cada um dos produtos.
+     2. somar os três preços para obter o valor total da compra.
+
+  Refinamento: 
+     preco1 o preço do primeiro produto
+     preco2 o preço do segundo produto
+     preco3 o preço do terceiro produto
+     total = preco1 + preco2 + preco3
+
+  Q.9 Tempo total de uma viagem:
+      1. para calcular precisamos de duas informações.
+      2.o tempo gasto (em horas).
+      3. a velocidade média (em km/h).
+      4. deois, saber o tempo total em viagens e minutos. 
+
+  Refinamento:
+      tempo_horas → tempo gasto em horas  
+      velocidade_media → velocidade média em km/h
+      distancia → distância total em km
+      tempo_minutos → tempo total em m 
+
+ Q.10 Conversão de dias em horas:
+       1. para converter a quantidade de dias precisamos lembrar que 1 dia tem 24 horas.
+       2. portanto, para saber a quantidade de horas pegamos esse numero e multiplicamos por 24.
+       3. se a pessoa informou que o número é 5 ele sera multiplivado por 24.
+
+  Refinamento:
+        dias: número de dias
+        horas: número total de horas
+        multiplica os dois valores
+        e a multiplicação e o resultado.
